@@ -3,13 +3,29 @@
         { "Title": "Telegram", "Logo": "fa fa-telegram", "Link": "" },
         { "Title": "Instagram", "Logo": "fa fa-instagram", "Link": "" },
         { "Title": "YouTube", "Logo": "fa fa-youtube", "Link": "" },
-        { "Title": "About", "Logo": "fa fa-user", "Link": "" },
-        { "Title": "Theme", "Logo": "fa fa-adjust", "Link": "" }
+        { "Title": "About", "Logo": "fa fa-user", "Link": "" }
     ],
     "NavMenu":[
         { "Title": "Home", "Link": "/" },
         { "Title": "Coding", "Link": "/coding" },
         { "Title": "PC", "Link": "/pc" },
         { "Title": "About", "Link": "/about" }
+    ],
+    "BestVideos":[
+        { "title": "Turning Windows 7 Into 10", "date":".", "poster": "covers/win7to10.jpg", "link": "" },
+        { "title": "Download From GooglePlay In Iran", "date":".", "poster": "covers/googleplay.jpg", "link": "" },
+        { "title": "Play COD Mobile On PC", "date":".", "poster": "covers/codm.jpg", "link": "" },
+        { "title": "Photo Slide Made By HTML,CSSm,JS", "date":".", "poster": "covers/htmlslides.jpg", "link": "" }
+    ],
+    "NewVideos":[
+        { "title": "Turning Windows 7 Into 10", "date":".", "poster": "covers/win7to10.jpg", "link": "" },
+        { "title": "Download From GooglePlay In Iran", "date":".", "poster": "covers/googleplay.jpg", "link": "" },
+        { "title": "Play COD Mobile On PC", "date":".", "poster": "covers/codm.jpg", "link": "" },
+        { "title": "Photo Slide Made By HTML,CSS,JS", "date":".", "poster": "covers/htmlslides.jpg", "link": "" }
+    ],
+    "Carousel":[
+        { "title": "Turning Windows 7 Into 10", "class":"carousel-item active", "poster": "covers/win7to10.jpg", "link": "", "detail":""},
+        { "title": "Download From GooglePlay In Iran", "class":"carousel-item", "poster": "covers/googleplay.jpg", "link": "", "detail":"" },
+        { "title": "Play COD Mobile On PC", "class":"carousel-item", "poster": "covers/codm.jpg", "link": "", "detail":"" }
     ]
 }
