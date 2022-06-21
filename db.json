@@ -1,0 +1,15 @@
+{
+    "Sidebar":[
+        { "Title": "Telegram", "Logo": "fa fa-telegram", "Link": "" },
+        { "Title": "Instagram", "Logo": "fa fa-instagram", "Link": "" },
+        { "Title": "YouTube", "Logo": "fa fa-youtube", "Link": "" },
+        { "Title": "About", "Logo": "fa fa-user", "Link": "" },
+        { "Title": "Theme", "Logo": "fa fa-adjust", "Link": "" }
+    ],
+    "NavMenu":[
+        { "Title": "Home", "Link": "/" },
+        { "Title": "Coding", "Link": "/coding" },
+        { "Title": "PC", "Link": "/pc" },
+        { "Title": "About", "Link": "/about" }
+    ]
+}
