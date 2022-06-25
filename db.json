@@ -71,25 +71,50 @@
     "AllPhotos":[
       {
         "title": "Photo1",
-        "src": "/",
+        "src": "/c1.jpg",
         "link": "1",
         "id": "1"
       },
       {
         "title": "Photo2",
-        "src": "/",
+        "src": "/c2.jpg",
         "link": "2",
         "id": "2"
       },
       {
         "title": "Photo3",
-        "src": "/",
+        "src": "/c3.jpg",
         "link": "3",
         "id": "3"
       },
       {
         "title": "Photo4",
-        "src": "/",
+        "src": "/c1.jpg",
+        "link": "4",
+        "id": "4"
+      },
+
+      {
+        "title": "Photo1",
+        "src": "/c1.jpg",
+        "link": "1",
+        "id": "1"
+      },
+      {
+        "title": "Photo2",
+        "src": "/c2.jpg",
+        "link": "2",
+        "id": "2"
+      },
+      {
+        "title": "Photo3",
+        "src": "/c3.jpg",
+        "link": "3",
+        "id": "3"
+      },
+      {
+        "title": "Photo4",
+        "src": "/c1.jpg",
         "link": "4",
         "id": "4"
       }
