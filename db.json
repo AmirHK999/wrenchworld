@@ -92,31 +92,6 @@
         "src": "/photos/4-min.jpg",
         "link": "4",
         "id": "4"
-      },
-
-      {
-        "title": "Photo5",
-        "src": "/photos/5-min.jpg",
-        "link": "5",
-        "id": "5"
-      },
-      {
-        "title": "Photo6",
-        "src": "/photos/6-min.jpg",
-        "link": "6",
-        "id": "6"
-      },
-      {
-        "title": "Photo7",
-        "src": "/photos/7-min.jpg",
-        "link": "7",
-        "id": "7"
-      },
-      {
-        "title": "Photo8",
-        "src": "/photos/8-min.jpg",
-        "link": "8",
-        "id": "8"
       }
     ]
   }
