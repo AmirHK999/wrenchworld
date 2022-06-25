@@ -71,25 +71,25 @@
     "AllPhotos":[
       {
         "title": "Photo1",
-        "src": "/photos/1-min.jpg",
+        "src": "/",
         "link": "1",
         "id": "1"
       },
       {
         "title": "Photo2",
-        "src": "/photos/2-min.jpg",
+        "src": "/",
         "link": "2",
         "id": "2"
       },
       {
         "title": "Photo3",
-        "src": "/photos/3-min.jpg",
+        "src": "/",
         "link": "3",
         "id": "3"
       },
       {
         "title": "Photo4",
-        "src": "/photos/4-min.jpg",
+        "src": "/",
         "link": "4",
         "id": "4"
       }
