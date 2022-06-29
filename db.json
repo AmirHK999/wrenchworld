@@ -1,122 +1,146 @@
 {
-    "Sidebar": [
-      {
-        "Title": "Telegram",
-        "Logo": "fa fa-telegram",
-        "Link": ""
-      },
-      {
-        "Title": "Instagram",
-        "Logo": "fa fa-instagram",
-        "Link": ""
-      },
-      {
-        "Title": "YouTube",
-        "Logo": "fa fa-youtube",
-        "Link": ""
-      },
-      {
-        "Title": "About",
-        "Logo": "fa fa-user",
-        "Link": ""
-      }
-    ],
-    "NavMenu": [
-      {
-        "Title": "Home",
-        "Link": "/"
-      },
-      {
-        "Title": "All",
-        "Link": "/all"
-      },
-      {
-        "Title": "Photography",
-        "Link": "/photography"
-      }
-    ],
-    "Carousel": [
-      {
-        "title": "Hello",
-        "class": "carousel-item active",
-        "poster": "c1.jpg",
-        "link": "",
-        "detail": ""
-      },
-      {
-        "title": "Welcome to Wrench World!",
-        "class": "carousel-item",
-        "poster": "c2.jpg",
-        "link": "",
-        "detail": ""
-      },
-      {
-        "title": "Subscribe us on YouTube and Telegram and follow on Instagram!",
-        "class": "carousel-item",
-        "poster": "c3.jpg",
-        "link": "",
-        "detail": ""
-      }
-    ],
-    "AllPosts":[
-      {
-        "title": "Photo Slide Made By HTML,CSS,JS",
-        "date": "Nov 26, 2021",
-        "poster": "covers/htmlslides.jpg",
-        "link": "page",
-        "details": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi necessitatibus dolore repellendus, temporibus quo rerum veniam obcaecati facere deserunt! Ab expedita aliquam quisquam quae, recusandae sit impedit suscipit veritatis minus?",
-        "id": "1"
-      }
-    ],
-    "AllPhotos":[
-      {
-        "title": "Photo1",
-        "src": "/c1.jpg",
-        "link": "1",
-        "id": "1"
-      },
-      {
-        "title": "Photo2",
-        "src": "/c2.jpg",
-        "link": "2",
-        "id": "2"
-      },
-      {
-        "title": "Photo3",
-        "src": "/c3.jpg",
-        "link": "3",
-        "id": "3"
-      },
-      {
-        "title": "Photo4",
-        "src": "/c1.jpg",
-        "link": "4",
-        "id": "4"
-      },
-
-      {
-        "title": "Photo1",
-        "src": "/c1.jpg",
-        "link": "1",
-        "id": "1"
-      },
-      {
-        "title": "Photo2",
-        "src": "/c2.jpg",
-        "link": "2",
-        "id": "2"
-      },
-      {
-        "title": "Photo3",
-        "src": "/c3.jpg",
-        "link": "3",
-        "id": "3"
-      },
-      {
-        "title": "Photo4",
-        "src": "/c1.jpg",
-        "link": "4",
-        "id": "4"
-      }
-    ]
-  }
+  "Sidebar": [
+    {
+      "Title": "Telegram",
+      "Logo": "fa fa-telegram",
+      "Link": ""
+    },
+    {
+      "Title": "Instagram",
+      "Logo": "fa fa-instagram",
+      "Link": ""
+    },
+    {
+      "Title": "YouTube",
+      "Logo": "fa fa-youtube",
+      "Link": ""
+    },
+    {
+      "Title": "About",
+      "Logo": "fa fa-user",
+      "Link": "/about"
+    }
+  ],
+  "NavMenu": [
+    {
+      "Title": "Home",
+      "Link": "/"
+    },
+    {
+      "Title": "All",
+      "Link": "/all"
+    },
+    {
+      "Title": "Photography",
+      "Link": "/photography"
+    }
+  ],
+  "Carousel": [
+    {
+      "title": "Hello",
+      "class": "carousel-item active",
+      "poster": "/c1.jpg",
+      "link": "",
+      "detail": ""
+    },
+    {
+      "title": "Welcome to Wrench World!",
+      "class": "carousel-item",
+      "poster": "/c2.jpg",
+      "link": "",
+      "detail": ""
+    },
+    {
+      "title": "Subscribe us on YouTube and Telegram and follow on Instagram!",
+      "class": "carousel-item",
+      "poster": "/c3.jpg",
+      "link": "",
+      "detail": ""
+    }
+  ],
+  "AllPosts": [
+    {
+      "title": "سپاس از خدا ایزد رهنمای / که از کاف و نون کرد گیتی به پای",
+      "date": "June 28, 2022",
+      "address": "post",
+      "id": "1",
+      "poster": "/c3.jpg",
+      "details": "Hello there!This is my first post in website!",
+      "musicView":"False",
+      "musicLink":"",
+      "videoView":"False",
+      "videoLink":"",
+      "iframeLink":"",
+      "iframeView":"False",
+      "iframeHeight":"364",
+      "e1":"False",
+      "e2":"False",
+      "e3":"False",
+      "e4":"False",
+      "e5":"False",
+      "e6":"False",
+      "poster1": "",
+      "poster2": "",
+      "poster3": "",
+      "poster4": "",
+      "poster5": "",
+      "poster6": "",
+      "details1": "",
+      "details2": "",
+      "details3": "",
+      "details4": "",
+      "details5": "",
+      "details6": ""
+    }
+  ],
+  "AllPhotos": [
+    {
+      "title": "Photo1",
+      "src": "/c1.jpg",
+      "link": "1",
+      "id": "1"
+    },
+    {
+      "title": "Photo2",
+      "src": "/c2.jpg",
+      "link": "2",
+      "id": "2"
+    },
+    {
+      "title": "Photo3",
+      "src": "/c3.jpg",
+      "link": "3",
+      "id": "3"
+    },
+    {
+      "title": "Photo4",
+      "src": "/c1.jpg",
+      "link": "4",
+      "id": "4"
+    },
+    {
+      "title": "Photo1",
+      "src": "/c1.jpg",
+      "link": "1",
+      "id": "1"
+    },
+    {
+      "title": "Photo2",
+      "src": "/c2.jpg",
+      "link": "2",
+      "id": "2"
+    },
+    {
+      "title": "Photo3",
+      "src": "/c3.jpg",
+      "link": "3",
+      "id": "3"
+    },
+    {
+      "title": "Photo4",
+      "src": "/c1.jpg",
+      "link": "4",
+      "id": "4"
+    }
+  ]
+}
