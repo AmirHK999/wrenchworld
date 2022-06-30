@@ -3,17 +3,17 @@
     {
       "Title": "Telegram",
       "Logo": "fa fa-telegram",
-      "Link": ""
+      "Link": "https://t.me/Wrench_World"
     },
     {
       "Title": "Instagram",
       "Logo": "fa fa-instagram",
-      "Link": ""
+      "Link": "https://www.instagram.com/wrenchworld999"
     },
     {
       "Title": "YouTube",
       "Logo": "fa fa-youtube",
-      "Link": ""
+      "Link": "https://www.youtube.com/channel/UCkKwCGKRMas57-VFSJOxqGw"
     },
     {
       "Title": "About",
@@ -33,6 +33,10 @@
     {
       "Title": "Photography",
       "Link": "/photography"
+    },
+    {
+      "Title": "About",
+      "Link": "/about"
     }
   ],
   "Carousel": [
